@@ -1,0 +1,16 @@
+  350  nano ex2.txt
+  351  history ex2.txt
+  352  history > ex2.txt
+  353  brew install gcc
+  354  ls -a
+  355  cd
+  356  cd Dow
+  357  cd Downloads
+  358  ls
+  359  nano ex2.txt
+  360  ls
+  361  nano ex2.txt
+  362  ls
+  363  history > ex2.txt
+  364  nano ex2.txt
+  365  clear
