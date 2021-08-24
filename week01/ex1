@@ -1,0 +1,9 @@
+Here is everything that is on my laptop in /usr/bin (as you can see, there is nothing containing gcc):
+
+.		csh		expr		ls		rmdir		unlink
+..		dash		hostname	mkdir		sh		wait4path
+[		date		kill		mv		sleep		zsh
+bash		dd		ksh		pax		stty
+cat		df		launchctl	ps		sync
+chmod		echo		link		pwd		tcsh
+cp		ed		ln		rm		test
