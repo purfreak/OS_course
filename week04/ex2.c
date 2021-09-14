@@ -1,3 +1,7 @@
+/*
+Every procces creates new child procces by fork()
+*/
+
 #include <unistd.h>
 
 int main() {
