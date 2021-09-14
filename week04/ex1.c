@@ -1,3 +1,8 @@
+/*
+The output is different, because when new processes are created, they take free PID by order
+(if PID will be maximum, PID will be cleared and equal to 2)
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h>
