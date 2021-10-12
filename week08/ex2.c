@@ -8,7 +8,7 @@ the code takes more and more memory over time, and it becomes higher in `top -d1
 #include <unistd.h>
 
 int main() {
-  for (size_t i = 0; i < 10; i++) {
+  for (int i = 0; i < 10; i++) {
     void* allocated_memory = malloc(1000 * 1000 * 10);
     memset(allocated_memory, 0, 1000 * 1000 * 10);
     sleep(1);
