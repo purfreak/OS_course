@@ -1,0 +1,2 @@
+Physical address is real address which refers to the address in real memory,
+hovewer virtual address is an abstraction which refers to a virtual space allocated by a process.
